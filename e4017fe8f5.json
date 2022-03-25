@@ -1,0 +1,14 @@
+{
+  "name": "MPs Media Player",
+  "clientid": "956794913754873888",
+  "description": "Play Media",
+  "state": "",
+  "largeimage": "Large Image (optional)",
+  "smallimage": "Small Image (optional)",
+  "buttons": [
+    {
+      "label": "Download The MPs Media Player",
+      "url": "https://github.com/MisterPiano/Mister-Piano-s-Media-Player/releases"
+    }
+  ]
+}
